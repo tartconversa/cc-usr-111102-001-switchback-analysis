@@ -1,0 +1,72 @@
+{
+  "blocks": [
+    {
+      "block_id": "b1",
+      "floor": "F1",
+      "legal_assignments": [
+        "AABB",
+        "BBAA"
+      ],
+      "slots": [
+        {
+          "slot_id": "b1s1",
+          "assigned": "A",
+          "start_at": "2026-10-21T17:00:00+08:00",
+          "status": "observed"
+        },
+        {
+          "slot_id": "b1s2",
+          "assigned": "A",
+          "start_at": "2026-10-21T18:00:00+08:00",
+          "status": "observed"
+        },
+        {
+          "slot_id": "b1s3",
+          "assigned": "B",
+          "start_at": "2026-10-21T19:00:00+08:00",
+          "status": "observed"
+        },
+        {
+          "slot_id": "b1s4",
+          "assigned": "B",
+          "start_at": "2026-10-21T20:00:00+08:00",
+          "status": "observed"
+        }
+      ]
+    },
+    {
+      "block_id": "b2",
+      "floor": "F1",
+      "legal_assignments": [
+        "AABB",
+        "BBAA"
+      ],
+      "slots": [
+        {
+          "slot_id": "b2s1",
+          "assigned": "B",
+          "start_at": "2026-10-22T17:00:00+08:00",
+          "status": "observed"
+        },
+        {
+          "slot_id": "b2s2",
+          "assigned": "B",
+          "start_at": "2026-10-22T18:00:00+08:00",
+          "status": "observed"
+        },
+        {
+          "slot_id": "b2s3",
+          "assigned": "A",
+          "start_at": "2026-10-22T19:00:00+08:00",
+          "status": "observed"
+        },
+        {
+          "slot_id": "b2s4",
+          "assigned": "A",
+          "start_at": "2026-10-22T20:00:00+08:00",
+          "status": "observed"
+        }
+      ]
+    }
+  ]
+}

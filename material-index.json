@@ -1,0 +1,17 @@
+[
+  {
+    "path": "fixtures/analysis.json",
+    "sha256": "206015d2461be0973785833707df419e038fad18b7ec5652a342da810913983f",
+    "size_bytes": 563
+  },
+  {
+    "path": "fixtures/orders.jsonl",
+    "sha256": "c9308bfd393cd0c07874b8593e2ba6acb90545261a6e91148cb5b67144da090f",
+    "size_bytes": 575
+  },
+  {
+    "path": "fixtures/schedule.json",
+    "sha256": "f750c477c10e909aa5161fbb31e58d05cf98230ed8f1dfbfde66ad481391c15d",
+    "size_bytes": 1595
+  }
+]
